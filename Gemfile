@@ -13,6 +13,7 @@ group :test do
   gem 'capybara', '2.1.0'
   gem 'rspec-rails', '2.13.1'
   gem 'guard-rspec', '2.5.0'
+  gem 'factory_girl_rails', '4.2.1'
 end
 
 # Use SCSS for stylesheets
